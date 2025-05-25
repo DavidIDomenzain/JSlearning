@@ -11,10 +11,10 @@
 
 ## Checklist
 - Level 0
-- [X] HTML & CSS
-- [ ] Git & GitHub
-- [ ] Networking
+      - [X] HTML & CSS
+      - [X] Git & GitHub
+      - [X] Networking
       
 - Level 1
-- [X] JavaScript
-- [ ] Express.js
+      - [X] JavaScript
+      - [ ] Express.js
