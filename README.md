@@ -5,5 +5,6 @@
 |Level|Weeks|Start|
 |----|----|----|
 |0|3|Jan.|
+|1|8|Feb.|
 ## Checklist
 
